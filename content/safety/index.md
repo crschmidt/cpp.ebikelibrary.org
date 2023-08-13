@@ -14,10 +14,7 @@
     We check each e-bike before lending it out, but we recommend
     squeezing the brake levers to check the brakes before each ride.
 * Watch for cars. If you ride in the bike lane, watch for opening car
-    doors and drivers making right turns. Virginia law allows cyclists
-    to ride in the road. You can also borrow a [bike
-    horn](https://us.hornit.com/products/v3-db140) to get drivers'
-    attention.
+    doors and drivers making right turns. 
 * Follow charging instructions. Charge e-bike batteries as directed, and
     don't overcharge or charge batteries unattended.
 
