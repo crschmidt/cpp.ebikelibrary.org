@@ -47,9 +47,7 @@ finding your own e-bike and taking care of it once it arrives.
     example, you can adjust your brakes with a hex key and a pair of
     pliers. E-bikes are heavier and faster than regular bikes, so your
     brakes may wear faster than the brakes on a regular bike.
-* Ride safely. The Charlottesville area doesn't have great bike
-    infrastructure, so you'll probably be sharing the road with cars.
-    It's possible to get to almost anywhere within city limits, and many
-    places in Albemarle County, on an e-bike, but it helps to plan your
-    route in advance, and use side streets, parking lots, and maybe an
+* Ride safely. A lot of times you'll probably be sharing the road with cars.
+    It's possible to get to almost anywhere on an e-bike, but it helps to plan
+    your route in advance, and use side streets, parking lots, and maybe an
     occasional ride on the sidewalk to get away from traffic.
