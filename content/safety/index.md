@@ -2,8 +2,6 @@
 title: "Safety"
 ---
 
-# Safety
-
 ### Guidelines for borrowing an e-bike
 
 * Wear a helmet. If you don't have a helmet, we'll be happy to lend you

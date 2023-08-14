@@ -2,8 +2,6 @@
 title: "Our E-Bikes"
 ---
 
-### Our E-bikes
-
 * [RadRunner 2](https://www.radpowerbikes.com/collections/electric-bikes/products/radrunner-electric-utility-bike): Single-speed utility e-bike with wide tires and a low stepover height. Great for carrying cargo or a passenger. Bad for off-road usage.
 
   <img src="/ebikes/US-RadRunner2-Green-Right-View_1200x.png" width=200 alt="Image of RadRunner Plus" />
