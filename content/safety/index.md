@@ -1,3 +1,7 @@
+---
+title: "Safety"
+---
+
 # Safety
 
 ### Guidelines for borrowing an e-bike

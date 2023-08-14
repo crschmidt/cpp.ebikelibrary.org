@@ -1,3 +1,6 @@
+---
+title: "Buy Your Own"
+---
 # Get your own e-bike
 
 We don't sell e-bikes (or anything else), but we have some tips for

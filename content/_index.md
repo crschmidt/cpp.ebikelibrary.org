@@ -7,7 +7,7 @@ online, it can be a challenge to try an e-bike before buying one.
 The E-bike Lending Library is a free, not-for-profit service working to expand
 access to e-bikes in the area. We have a small collection of e-bikes that we
 lend out to community members for up to a week, for free. You can experience
-your daily commute, go grocery shopping, or even bike your kids to school, and
+your daily commute, go grocery shopping, or just take a bike for a spin and
 decide whether e-bikes are right for you. [Sign
 up](https://forms.gle/WkBo3KS4jfbQtgAr7) to borrow an e-bike or [contact
 us](mailto:crschmidt@crschmidt.net) with any questions.

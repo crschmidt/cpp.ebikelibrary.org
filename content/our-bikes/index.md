@@ -1,4 +1,6 @@
-# About
+---
+title: "Our E-Bikes"
+---
 
 ### Our E-bikes
 
