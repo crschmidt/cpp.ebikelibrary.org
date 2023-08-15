@@ -1,7 +1,6 @@
 ---
 title: "Theft Risk"
 date: 2023-08-15T09:09:52-04:00
-draft: true
 categories: ['Answers']
 url: "/answers/theft-risk/"
 author: Christopher Schmidt
