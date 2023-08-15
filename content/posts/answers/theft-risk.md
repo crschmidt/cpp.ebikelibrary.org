@@ -5,6 +5,7 @@ categories: ['Answers']
 url: "/answers/theft-risk/"
 author: Christopher Schmidt
 description: I'm often asked if I worry about my e-bike getting stolen? The answer is not much; this summarizes some of why this is a concern and what I do to mitigate it.
+images: ["/ebikes/radpower-ulock-theft.jpg"]
 featuredImage: "/ebikes/radpower-ulock-theft.jpg"
 featuredImagePreview: "/ebikes/radpower-ulock-theft.jpg"
 ---
