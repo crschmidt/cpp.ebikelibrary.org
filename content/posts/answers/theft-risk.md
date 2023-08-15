@@ -8,6 +8,7 @@ description: I'm often asked if I worry about my e-bike getting stolen? The answ
 images: ["/ebikes/radpower-ulock-theft.jpg"]
 featuredImage: "/ebikes/radpower-ulock-theft.jpg"
 featuredImagePreview: "/ebikes/radpower-ulock-theft.jpg"
+toc: false
 ---
 
 I'm often asked: "Do you worry about your e-bike getting stolen?" The answer is "not much"; this summarizes some of why this is a concern and what I do to mitigate it.
