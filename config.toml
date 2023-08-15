@@ -742,3 +742,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     identifier = "get-yours"
     name = "Buying Your Own"
     url = "/buy-yours/"
+  [[menu.main]]
+    weight = 5
+    identifier = "q-and-a"
+    name = "Questions and Answers"
+    url = "/categories/answers/"
