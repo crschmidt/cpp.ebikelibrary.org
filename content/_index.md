@@ -1,3 +1,7 @@
+---
+images: ['/ebikes/bikeshed-scaled.jpg']
+---
+
 # Curious about e-bikes? Try one from the Cambridge E-bike Lending Library!
 
 E-bikes are a great way to get around the Boston area. But there are
