@@ -4,7 +4,12 @@ date: 2023-08-15T09:09:52-04:00
 categories: ['Answers']
 url: "/answers/theft-risk/"
 author: Christopher Schmidt
+description: I'm often asked if I worry about my e-bike getting stolen? The answer is not much; this summarizes some of why this is a concern and what I do to mitigate it.
+featuredImage: "/ebikes/radpower-ulock-theft.jpg"
+featuredImagePreview: "/ebikes/radpower-ulock-theft.jpg"
 ---
+
+I'm often asked: "Do you worry about your e-bike getting stolen?" The answer is "not much"; this summarizes some of why this is a concern and what I do to mitigate it.
 
 Bike theft is annoyingly common, especially in urban areas. In Cambridge in 2021, there were a total of 623 reported bike thefts, and the trend of thefts increased starting with the pandemic in 2020. A lock alone is not sufficient to deter thieves: 78% of thefts are of locked bikes. Theft of bicycles is the single most commonly reported property crime in Cambridge. With this in mind, I make a few particular choices about how I use my bike that are designed to minimize risk of theft. All of this advice is from someone who lived in a relatively high-theft neighborhood of Cambridge, but had off-street storage at home and work.
 
