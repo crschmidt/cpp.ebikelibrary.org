@@ -38,7 +38,7 @@ an e-bike.
 The E-bike Library is run by me, Christopher Schmidt, using my own e-bikes.
 The e-bikes are free to borrow, but you're welcome to make a small donation to
 help cover maintenance costs if you would like. The e-bikes are stored in my
-laundry shed at my home in Porter Square.
+shed at my home in Porter Square.
 
 <img src="/ebikes/bikeshed-scaled.jpg" width=600 alt="A group of four ebikes standing up in the inside of a wooded shed." />
 
