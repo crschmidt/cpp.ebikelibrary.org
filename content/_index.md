@@ -4,17 +4,20 @@ images: ['/ebikes/bikeshed-scaled.jpg']
 
 # Curious about e-bikes? Try one from the Cambridge E-bike Lending Library!
 
+The E-bike Lending Library is a free, not-for-profit service working to expand
+access to e-bikes in the area. We have a small collection of e-bikes that we
+lend out to community members for up to a week, for free.
+
+<div style="text-align: center; font-size: 30px; margin: 20px"><a href="/our-bikes/">Check out our bikes</a>!</div>
+
 E-bikes are a great way to get around the Boston area. But there are
 many brands and styles to choose from, and because many e-bikes are sold
 online, it can be a challenge to try an e-bike before buying one.
 
-The E-bike Lending Library is a free, not-for-profit service working to expand
-access to e-bikes in the area. We have a small collection of e-bikes that we
-lend out to community members for up to a week, for free. You can experience
-your daily commute, go grocery shopping, or just take a bike for a spin and
-decide whether e-bikes are right for you. [Sign
-up](https://forms.gle/WkBo3KS4jfbQtgAr7) to borrow an e-bike or [contact
-us](mailto:crschmidt@crschmidt.net) with any questions.
+By borrowing a bike, you can experience your daily commute, go grocery
+shopping, or just take a bike for a spin and decide whether e-bikes are right
+for you. [Sign up](https://forms.gle/WkBo3KS4jfbQtgAr7) to borrow an e-bike or
+[contact us](mailto:camberville@ebikelibrary.org) with any questions.
 
 ### How it works
 
