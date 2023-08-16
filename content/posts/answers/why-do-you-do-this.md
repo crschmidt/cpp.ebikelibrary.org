@@ -27,7 +27,9 @@ Over the 3 days until RadPower sold out of RadMissions, I had more than 180 peop
 referral link to buy bikes. Rad eventually gave me referral bonuses for 90 of those people,
 meaning I had $4500 in RadPower Gift cards.
 
-With $4500 in gift cards, I did the only sensible thing: Buy two more RadPower bikes, buying
+A question I asked myself at that point: **What do I do with $4500 in gift cards to an e-bike retailer?**
+
+I did the only sensible thing: Buy two more RadPower bikes, buying
 different shapes and styles of bikes with the goal of helping people find the bike that's right
 for them.
 
