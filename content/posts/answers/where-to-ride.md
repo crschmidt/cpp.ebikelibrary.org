@@ -4,16 +4,19 @@ date: 2023-08-24T12:32:04-04:00
 draft: false
 categories: ['Answers']
 url: '/answers/where-to-ride'
+images: ["/img/routes/bikeloop.png", "/img/routes/paulrevere.png", "/img/routes/minuteman.png"]
 ---
 
 The intent of the E-Bike Lending Library is to let folks try an e-bike in their day to day lives: this means that you can borrow an e-bike and ride it wherever you'd like! However, if you'd just like to try out an e-bike for the first time and see what they're like, there are a couple of simple rides you can do starting from the library to experience some of what an e-bike has to offer.
 
-Community Path to Paul Revere Park
-----------------------------------
+## Community Path to Paul Revere Park
+
 * Distance: 8 miles
 * Stress Level: Low
 * Time: 45 minutes
 * [RideWithGPS](https://ridewithgps.com/routes/44182939), [Strava](https://www.strava.com/routes/3129827344108849596)
+
+<img src="/img/routes/paulrevere.png" />
 
 From the library, this ride proceeds in an on-street painted bike lane for 
 approximately four blocks to connect to the Somerville Community Path. From
@@ -36,12 +39,14 @@ The return route will take the same route back, with a slightly earlier cut-off
 from the Community Path at Lexington Park to return on Cedar (as Willow is one
 way northbound).
 
-Minuteman Out and Back
-----------------------
+## Minuteman Out and Back
+
 * Distance: 23 miles
 * Stress Level: Low
 * Time: Under 2 hours
 * [RideWithGPS](https://ridewithgps.com/routes/44182904), [Strava](https://www.strava.com/routes/3129821415046460004)
+
+<img src="/img/routes/minuteman.png" />
 
 From the library, this ride proceeds in an on-street painted bike lane for 
 approximately four blocks to connect to the Somerville Community Path. From
@@ -62,13 +67,14 @@ ranked one of the best rail trails in the country. This is an easy ride for
 folks to experience a relaxing ride with the comfort of an e-bike.
 
 
+## Bike Path Loop Ride
 
-Bike Path Loop Ride
--------------------
 * Distance: 20 miles
 * Stress Level: Medium
 * Time: Around 2 hours
 * [RideWithGPS](https://ridewithgps.com/routes/44183053), [Strava](https://www.strava.com/routes/3129828503772835260)
+
+<img src="/img/routes/bikeloop.png" alt="A map of a bike route, looping around Cambridge, touching Somerville, Boston, and Arlington, mostly along the Somerville Community Path and the Charles River." />
 
 This loop ride is designed to connect a number of off-street paths in a loop
 with more opportunity for sightseeing and exploring more of the city. 
@@ -96,8 +102,7 @@ This route is best with at least one person with some experience navigating
 Boston. If you're interested in having a guide for this ride, let me know so
 we can arrange a time.
 
-Route Description
-=================
+### Route Description
 
 Beginning at the Community Path in Somerville, proceed East through Cambridge
 Crossing and Paul Revere Park. Cross over into Boston by walking your bike
