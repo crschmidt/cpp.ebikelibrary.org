@@ -3,6 +3,7 @@ title: "Where Should I Ride?"
 date: 2023-08-24T12:32:04-04:00
 draft: false
 categories: ['Answers']
+url: '/answers/where-to-ride'
 ---
 
 The intent of the E-Bike Lending Library is to let folks try an e-bike in their day to day lives: this means that you can borrow an e-bike and ride it wherever you'd like! However, if you'd just like to try out an e-bike for the first time and see what they're like, there are a couple of simple rides you can do starting from the library to experience some of what an e-bike has to offer.
