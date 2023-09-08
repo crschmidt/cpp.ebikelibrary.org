@@ -1,4 +1,5 @@
 ---
+title: Camberville E-Bike Lending Library
 images: ['/ebikes/bikeshed-scaled.jpg']
 ---
 
