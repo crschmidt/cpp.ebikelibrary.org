@@ -9,7 +9,7 @@ on it. Includes the Caboose passenger cage (rear bars) and the Conestoga
 rain cover, designed to make for easier winter riding.
 
 This bike is assembled and ready to roll. It has been test-ridden to ensure
-there are no fatal flaws. Includes owners manual, charger, etc.; this is 
+there are no major issues. Includes owners manual, charger, etc.; this is 
 effectively a floor model bike built specifically to pass on at a discount.
 
 
