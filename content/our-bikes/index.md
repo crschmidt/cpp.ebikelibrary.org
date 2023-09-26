@@ -13,7 +13,7 @@ toc: true
 
   <img src="/ebikes/US-RadRunner2-Green-Right-View_1200x.png" width=200 alt="Image of RadRunner Plus" />
 
-* **RadMission**: Single-speed e-bike with a mid-step or high-step frame. This is a straightforward hybrid-style bike with e-assist. (This bike has been EOLed; there is no way to buy this specific bike new.) [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=RadMission:+Lightweight+hybrid-style+bike)
+* **RadMission**: Single-speed e-bike with a mid-step or high-step frame. This is a straightforward hybrid-style bike with e-assist. (This bike has been EOLed; there is no way to buy this specific bike new.) The High-step is [available for purchase](/try-then-buy/radmission/) for $750. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=RadMission:+Lightweight+hybrid-style+bike)
 
   <img src="/ebikes/MissionMS_white_side_700x.png" width=200 alt="Image of RadMission" />
   <img src="/ebikes/radmission-highstep.png" width=200 alt="Image of RadMission High Step" />
