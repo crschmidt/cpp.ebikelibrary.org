@@ -14,6 +14,7 @@ under 300 miles on it. It has a pair of alternative pedals from the previous
 owner. It was originally purchased in October of 2022.
 
 | Item | Normal Price | Typical Sale Price |
+| ---- | ------------ | ------------------ |
 | RadMission High Step | $1200 | $900 |
 | RadMission Rear Rack | $79 | $79 |
 | Assembly | $200 | $200 |
