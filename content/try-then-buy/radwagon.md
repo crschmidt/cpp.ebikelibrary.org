@@ -1,6 +1,6 @@
 ---
 title: "Radwagon 4 - Try Then Buy"
-images: ["/ebikes/rw1.jpg"]
+images: ["/ebikes/rw/1.jpg"]
 ---
 
 A discounted RadWagon 4 is available for sale, including several accessories
