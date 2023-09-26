@@ -1,5 +1,5 @@
 ---
-title: "RadMission High-Step - Try Then Buy"
+title: "RadMission High-Step - $750 - Try Then Buy"
 images: ["/ebikes/rm/rm1.jpg"]
 ---
 

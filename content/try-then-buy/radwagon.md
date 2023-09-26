@@ -1,5 +1,5 @@
 ---
-title: "Radwagon 4 - Try Then Buy"
+title: "Radwagon 4 - $1750 - Try Then Buy"
 images: ["/ebikes/rw/1.jpg"]
 ---
 
