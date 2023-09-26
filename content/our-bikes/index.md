@@ -5,6 +5,10 @@ toc: true
 
 ### RadPowerBikes
 
+* **[RadWagon 4](https://www.radpowerbikes.com/products/radwagon-electric-cargo-bike)**: Long-tail bike with installed Caboose passenger bars and Conestoga Rain Cover; good for taking slightly older kids on rides. This bike is also [available for purchase](/try-then-buy/radwagon/) for $1750. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url)
+
+  <img src="/ebikes/rw/1.jpg" width=200 alt="Image of RadWagon 4" />
+
 * **[RadRunner 2](https://www.radpowerbikes.com/collections/electric-bikes/products/radrunner-electric-utility-bike)**: Single-speed utility e-bike with wide tires and a low stepover height. Great for carrying cargo or a passenger. Bad for off-road usage. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=RadRunner+2:+Utility+E-bike)
 
   <img src="/ebikes/US-RadRunner2-Green-Right-View_1200x.png" width=200 alt="Image of RadRunner Plus" />
