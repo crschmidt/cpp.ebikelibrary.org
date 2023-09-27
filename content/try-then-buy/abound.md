@@ -19,8 +19,6 @@ This bike is professionally assembled and ready to roll.
 | Assembled | $180 | $180 |
 | Total | $2634 | $2234 |
 
-**Your price today: $2003**
-
-If interested, please contact <a href="mailto:camberville@ebikelibrary.org">camberville@ebikelibrary.org</a>.
+For information on current sale price, please contact <a href="mailto:camberville@ebikelibrary.org">camberville@ebikelibrary.org</a>.
 
 <img src="/ebikes/abound.jpg" />
