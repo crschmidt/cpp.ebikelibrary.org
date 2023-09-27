@@ -1,7 +1,9 @@
 ---
-title: "Radwagon 4 - $1750 - Try Then Buy"
+title: "(Sold) Radwagon 4 - $1750 - Try Then Buy"
 images: ["/ebikes/rw/1.jpg"]
 ---
+
+**Update (2023-09-27): This bike has been sold and is no longer available.**
 
 A discounted RadWagon 4 is available for sale, including several accessories
 helpful to carrying kids on the rear of the bike. This bike was purchased
