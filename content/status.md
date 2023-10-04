@@ -14,7 +14,7 @@ Current Status:
 | RadCity | Checked Out | 1 |
 | RadMission High Step | Checked Out | 2 |
 | RadMission Mid Step | Checked Out | 1 |
-| RadRover | Checked Out | 0 |
+| RadRover | Checked Out | 0 | 
 | RadRunner | Checked Out | 0 |
 | RadWagon | Sold |
 
