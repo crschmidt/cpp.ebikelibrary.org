@@ -8,13 +8,13 @@ Current Status:
 
 | Bike | Status | Holds |
 | ---- | ------ | ----- |
-| Aventon Abound | Checked Out | 16 |
-| Bird V-Frame | Checked Out | 0 |
-| Blix Aveny | Checked Out | 1 |
+| Aventon Abound | Checked Out | 23 |
+| Bird V-Frame | Checked Out | 1 |
+| Blix Aveny | Checked Out | 4 |
 | RadCity | Checked Out | 1 |
 | RadMission High Step | Checked Out | 2 |
-| RadMission Mid Step | Checked Out | 1 |
-| RadRover | Checked Out | 0 | 
-| RadRunner | Checked Out | 0 |
+| RadMission Mid Step | Checked Out | 2 |
+| RadRover | Checked Out | 1 | 
+| RadRunner | Checked Out | 1 |
 | RadWagon | Sold |
 
