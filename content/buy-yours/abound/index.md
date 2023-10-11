@@ -8,8 +8,8 @@ England to offer a discount on a package deal with accessories for the Aventon
 Abound.
 
 Bikes are assembled by professional bike mechanics, and delivered to your door
-in the Camberville area. For each bike purchased, E-Bikes of New England will
-donate $50 to the Camberville E-Bike Lending Library.
+in the Camberville area. **For each bike purchased, E-Bikes of New England will
+donate $50 to the Camberville E-Bike Lending Library.**
 
 | Package | List Price (including assembly) | E-Bikes of New England Price |
 | ------- | ------------------------------- | ---------------------------- |
