@@ -19,7 +19,7 @@ donate $50 to the Camberville E-Bike Lending Library.**
 
 All prices include professional assembly and delivery.
 
-E-Bikes of New England has also donated a Ready to Transport model Aventon Abound to the library for families to try before they buy; if you'd like to try out the bike, you can request to [borrow the bike](https://forms.gle/WkBo3KS4jfbQtgAr7) to try! (Note that there is a significant backlog at this time in borrowing the bike.)
+E-Bikes of New England has also donated a Ready to Transport model Aventon Abound to the library for families to try before they buy; if you'd like to try out the bike, you can request to [borrow the bike](https://forms.gle/WkBo3KS4jfbQtgAr7) to try! (Note that there is a significant backlog at this time in borrowing the bike.) Thanks to E-Bikes of New England for their support of the library and their ongoing sponsorship of the [Family Bike Ride](https://www.familybikeride.org/)!
 
 
 <img src="/ebikesne.jpg" />
