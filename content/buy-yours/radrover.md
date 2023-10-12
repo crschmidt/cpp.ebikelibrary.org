@@ -13,6 +13,8 @@ time.
 
 This bike has around 300 miles on it. 
 
+If interested, email <a href="camberville@ebikelibrary.org">camberville@ebikelibrary.org</a> for more info.
+
 | Item | Normal Price |
 | ---- | ------------ |
 | RadRover 6+ Step-Thru | $2099 |
