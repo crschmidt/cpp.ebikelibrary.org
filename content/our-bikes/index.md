@@ -49,11 +49,6 @@ These bikes are offered with a child seat installed that fits children up to 45 
 
   <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
 
-* <img src="/ebikes/birdvframe.jpg" width="200px" alt="A white bike with a step thru frame, integrated battery, and straight handlebars. It is labeled 'Bird'." style="float: right; margin-left: 3px; margin-bottom: 3px;" />
-  
-  **[Bird V-Frame](https://shop.bird.co/products/e-bikes-v-frame-glacier-white)**: A single speed e-bike with a belt drive. This bike has a low seat and will not work well for taller riders (> 5'10"). [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=Bird+V-Frame:+Lightweight+hybrid-style+belt-drive+bike)
-  <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
-
 ### Fat-tire bikes
 
 * <img src="/ebikes/US-RadRunner2-Green-Right-View_1200x.png" width=200 alt="Image of RadRunner Plus" style="float: right; margin-left: 3px; margin-bottom: 3px;" />
