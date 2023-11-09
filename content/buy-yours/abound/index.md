@@ -3,6 +3,10 @@ title: "Aventon Abound - Deal from E-Bikes of New England"
 images: ["/ebikes/abound.jpg"]
 ---
 
+Aventon is offering a strong Black Friday deal; if you're looking to buy, [go to them directly](https://www.aventon.com/products/abound-ebike?variant=42319517483203)
+
+<!--
+
 The Camberville E-Bike Lending Library has partnered with E-Bikes of New
 England to offer a discount on a package deal with accessories for the Aventon
 Abound.
@@ -23,3 +27,5 @@ E-Bikes of New England has also donated a Ready to Transport model Aventon Aboun
 
 
 <img src="/ebikesne.jpg" />
+
+-->
