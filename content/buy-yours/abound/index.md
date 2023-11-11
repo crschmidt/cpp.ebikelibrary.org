@@ -3,13 +3,11 @@ title: "Aventon Abound - Deal from E-Bikes of New England"
 images: ["/ebikes/abound.jpg"]
 ---
 
-Aventon is offering a strong Black Friday deal; if you're looking to buy, [go to them directly](https://www.aventon.com/products/abound-ebike?variant=42319517483203)
+Aventon is offering a strong Black Friday deal for those who buy directly, where they're including a bundle of accessories. If you're willing to build yourself, you may be better off buying directly from Aventon, you may be better off [going to them directly](https://www.aventon.com/products/abound-ebike?variant=42319517483203)
 
-<!--
-
-The Camberville E-Bike Lending Library has partnered with E-Bikes of New
+<!--The Camberville E-Bike Lending Library has partnered with E-Bikes of New
 England to offer a discount on a package deal with accessories for the Aventon
-Abound.
+Abound.-->
 
 Bikes are assembled by professional bike mechanics, and delivered to your door
 in the Camberville area. **For each bike purchased, E-Bikes of New England will
@@ -17,9 +15,9 @@ donate $50 to the Camberville E-Bike Lending Library.**
 
 | Package | Current Sale Price | E-Bikes of New England Price |
 | ------- | ------------------ | ---------------------------- |
-| **Standard**: This base accessory package includes the handrail, rear seat pad, and a front rack, for a ready-to-ride experience designed to haul two older kids. | $2274 | <s>$2003</s> <br /> Black Friday Price: $1903 |
-| **Ready to Haul**: The Ready to Haul package adds a double-width milk crate mounted to the front rack for all your carrying needs, and a Lezyne bell. | $2330 | <s>$2050</s> <br /> Black Friday Price: $1950 |
-| **Ready to Transport**:  This package adds a rack-mounted Yepp Maxx child seat. (This is the configuration available for borrowing from the E-Bike Lending Library.) | $2580 |  <s>$2250</s> <br /> Black Friday Price: $2150 |
+| **Standard**: This base accessory package includes the handrail, rear seat pad, and a front rack, for a ready-to-ride experience designed to haul two older kids. | $1780 | <s>$2003</s> <br /> Black Friday Price: $1803 |
+| **Ready to Haul**: The Ready to Haul package adds a double-width milk crate mounted to the front rack for all your carrying needs, and a Lezyne bell. | $1834 | <s>$2050</s> <br /> Black Friday Price: $1850 |
+| **Ready to Transport**:  This package adds a rack-mounted Yepp Maxx child seat. (This is the configuration available for borrowing from the E-Bike Lending Library.) | $2064 |  <s>$2250</s> <br /> Black Friday Price: $2050 |
 
 All prices include professional assembly and delivery.
 
@@ -27,5 +25,3 @@ E-Bikes of New England has also donated a Ready to Transport model Aventon Aboun
 
 
 <img src="/ebikesne.jpg" />
-
--->
