@@ -15,9 +15,9 @@ donate $50 to the Camberville E-Bike Lending Library.**
 
 | Package | Current Sale Price | E-Bikes of New England Price |
 | ------- | ------------------ | ---------------------------- |
-| **Standard**: This base accessory package includes the handrail, rear seat pad, and a front rack, for a ready-to-ride experience designed to haul two older kids. | $1780 | <s>$2003</s> <br /> Black Friday Price: $1803 |
-| **Ready to Haul**: The Ready to Haul package adds a double-width milk crate mounted to the front rack for all your carrying needs, and a Lezyne bell. | $1834 | <s>$2050</s> <br /> Black Friday Price: $1850 |
-| **Ready to Transport**:  This package adds a rack-mounted Yepp Maxx child seat. (This is the configuration available for borrowing from the E-Bike Lending Library.) | $2064 |  <s>$2250</s> <br /> Black Friday Price: $2050 |
+| **Standard**: This base accessory package includes the handrail, rear seat pad, and a front rack, for a ready-to-ride experience designed to haul two older kids. | $1830 | <s>$2003</s> <br /> Black Friday Price: $1803 |
+| **Ready to Haul**: The Ready to Haul package adds a double-width milk crate mounted to the front rack for all your carrying needs, and a Lezyne bell. | $1884 | <s>$2050</s> <br /> Black Friday Price: $1850 |
+| **Ready to Transport**:  This package adds a rack-mounted Yepp Maxx child seat. (This is the configuration available for borrowing from the E-Bike Lending Library.) | $2114 |  <s>$2250</s> <br /> Black Friday Price: $2050 |
 
 All prices include professional assembly and delivery.
 
