@@ -3,7 +3,7 @@ title: "Aventon Abound - Deal from E-Bikes of New England"
 images: ["/ebikes/abound.jpg"]
 ---
 
-Aventon is offering a strong Black Friday deal for those who buy directly, where they're including a bundle of accessories. If you're willing to build yourself, you may be better off buying directly from Aventon, you may be better off [going to them directly](https://www.aventon.com/products/abound-ebike?variant=42319517483203)
+Aventon is offering a strong Black Friday deal for those who buy directly, where they're including a bundle of accessories. **If you're willing to build yourself, you may be better off buying directly from Aventon, you may be better off [going to them directly](https://www.aventon.com/products/abound-ebike?variant=42319517483203).**
 
 <!--The Camberville E-Bike Lending Library has partnered with E-Bikes of New
 England to offer a discount on a package deal with accessories for the Aventon
