@@ -15,7 +15,7 @@ Purchase an Aventon Abound from E-Bikes of New England today for $1599, and you 
 * Loan of Seatpad
 * Everything required to redeem full accessories package, after two weeks ([redemption link](https://www.aventon.com/pages/free-gift))
 
-Once you receive your full set of accessories, you will return the duplicate
+Once you receive your duplicate accessories, you will return the duplicate
 handrail and seatpad to the Camberville E-Bike Lending Library near Porter
 Square.
 
