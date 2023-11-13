@@ -21,7 +21,7 @@ Once you receive your duplicate accessories, you will return the duplicate
 handrail and seatpad to the Camberville E-Bike Lending Library near Porter
 Square.
 
-Additional items you may wish to add to your order:
+Additional items you may wish to add to your order (but aren't required):
 
 * Yepp Nexxt Seat: $200 (discounted from $280 on the internet; sold out on Aventon.com)
 * [Cafe Lock Kit](https://betterabound.familybikeride.org/cafe-lock/): $125; designed in Camberville, this lock kit with an integrated wheel + chain lock is the community recommendation for locking the Abound.
