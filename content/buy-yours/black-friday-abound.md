@@ -21,7 +21,7 @@ Once you receive your duplicate accessories, you will return the duplicate
 handrail and seatpad to the Camberville E-Bike Lending Library near Porter
 Square.
 
-> To start your order from E-Bikes of New England, email [ebikesne@gmail.com](mailto:ebikene@gmail.com).
+> To start your order from E-Bikes of New England, email [ebikesne@gmail.com](mailto:ebikene@gmail.com). If you have clarification questions, please email [camberville@ebikelibrary.org](mailto:camberville@ebikelibrary.org).
 
 Additional items you may wish to add to your order (but aren't required):
 
