@@ -21,6 +21,8 @@ Once you receive your duplicate accessories, you will return the duplicate
 handrail and seatpad to the Camberville E-Bike Lending Library near Porter
 Square.
 
+> To start your order from E-Bikes of New England, email [ebikesne@gmail.com](mailto:ebikene@gmail.com).
+
 Additional items you may wish to add to your order (but aren't required):
 
 * Yepp Nexxt Seat: $200 (discounted from $280 on the internet; sold out on Aventon.com)
