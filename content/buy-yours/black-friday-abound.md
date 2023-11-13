@@ -4,9 +4,10 @@ date: 2023-11-13T07:27:03-05:00
 images: ['/img/e-bikes-ne-abound.jpg']
 ---
 
-To help folks buying the Abound get the same deal from a dealer as they can get
-from Aventon directly, [E-Bikes of New England](https://www.ebikesofne.com/) is making a special offer to
-residents of the Camberville area to get a bike now.
+To help folks in the Camberville area buying the Aventon Abound get the same
+deal from a dealer as they can get from Aventon directly, [E-Bikes of New
+England](https://www.ebikesofne.com/) is making a special offer to residents of
+the Camberville area to get a bike now.
 
 **Purchase an Aventon Abound from E-Bikes of New England today for $1599**, and you will receive:
 
