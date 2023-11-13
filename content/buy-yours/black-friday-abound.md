@@ -8,14 +8,14 @@ To help folks buying the Abound get the same deal from a dealer as they can get
 from Aventon directly, [E-Bikes of New England](https://www.ebikesofne.com/) is making a special offer to
 residents of the Camberville area to get a bike now.
 
-Purchase an Aventon Abound from E-Bikes of New England today for $1599, and you will receive:
+**Purchase an Aventon Abound from E-Bikes of New England today for $1599**, and you will receive:
 
 * [Bike](https://www.aventon.com/products/abound-ebike)
 * Loan of [Abound Handrail](https://www.aventon.com/products/aventon-handrail)
 * Loan of [Abound Seatpad](https://www.aventon.com/products/aventon-seat-pad)
 * Everything required to redeem full accessories package, after two weeks ([redemption link](https://www.aventon.com/pages/free-gift))
 
-This package will get you set to ride with kids from day one; and you will also receive the accessories package from Aventon directly.
+**This package will get you set to ride with kids from day one; and you will also receive the accessories package from Aventon directly.**
 
 Once you receive your duplicate accessories, you will return the duplicate
 handrail and seatpad to the Camberville E-Bike Lending Library near Porter
