@@ -17,8 +17,8 @@ the Camberville area to get a bike now.
 
 Previously, Aventon was including additional accessories that are now not being included in the "$600 off accessories" offer; these are available at a 20% discount. (If duplicate accessories come from the gift redemption, they can be sold back at the same price.)
 
-* Seatpad: $51 (20% off; sold out from Aventon)
-* Front Rack: $56 (20% off; sold out from Aventon)
+* Seatpad: $52 (20% off; sold out from Aventon)
+* Front Rack: $57 (20% off; sold out from Aventon)
 
 **This package will get you set to ride with kids from day one; and you will also receive the accessories package from Aventon directly.**
 
