@@ -22,7 +22,7 @@ Previously, Aventon was including additional accessories that are now not being 
 
 **This package will get you set to ride with kids from day one; and you will also receive whatever accessories Aventon delivers via their free gift.**
 
-> To start your order from E-Bikes of New England, email [ebikesne@gmail.com](mailto:ebikene@gmail.com). If you have clarification questions, please email [camberville@ebikelibrary.org](mailto:camberville@ebikelibrary.org).
+> To start your order from E-Bikes of New England, email [ebikesne@gmail.com](mailto:ebikenes@gmail.com). If you have clarification questions, please email [camberville@ebikelibrary.org](mailto:camberville@ebikelibrary.org).
 
 Additional items you may wish to add to your order (but aren't required):
 
