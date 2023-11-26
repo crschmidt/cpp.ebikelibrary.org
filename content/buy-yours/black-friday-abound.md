@@ -14,11 +14,7 @@ the Camberville area to get a bike now.
 * [Bike](https://www.aventon.com/products/abound-ebike)
 * [Abound Handrail](https://www.aventon.com/products/aventon-handrail)
 * [Abound Seatpad](https://www.aventon.com/products/aventon-seat-pad)
-* Ability to redeem accessories package, after two weeks ([redemption link](https://www.aventon.com/pages/free-gift))
-
-Previously, Aventon was including additional accessories that are now not being included in the "$600 off accessories" offer.
-
-* Front Rack: $50
+* Ability to redeem accessories package ([redemption link](https://www.aventon.com/pages/free-gift))
 
 **This package will get you set to ride with kids from day one; and you will also receive whatever accessories Aventon delivers via their free gift.**
 
