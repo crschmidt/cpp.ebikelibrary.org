@@ -12,8 +12,8 @@ in the Camberville area, within the week for in-stock bikes. **For each bike
 purchased, E-Bikes of New England will donate $50 to the Camberville E-Bike
 Lending Library.**
 
-Currently, some accessories are sold out from Aventon, so this deal may not
-be available. 
+Currently, some accessories are sold out from Aventon, so some parts of this
+deal may be delayed.
 
 | Package | Current Sale Price | E-Bikes of New England Price |
 | ------- | ------------------ | ---------------------------- |
