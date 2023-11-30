@@ -17,9 +17,9 @@ deal may be delayed.
 
 | Package | Current Sale Price | E-Bikes of New England Price |
 | ------- | ------------------ | ---------------------------- |
-| **Standard**: This base accessory package includes the handrail, rear seat pad, and a front rack, for a ready-to-ride experience designed to haul two older kids. | $2112 | $2003 |
-| **Ready to Haul**: The Ready to Haul package adds a double-width milk crate mounted to the front rack for all your carrying needs, and a Lezyne bell. | $2166 | $2050 |
-| **Ready to Transport**:  This package adds a rack-mounted Yepp Maxx child seat. (This is the configuration available for borrowing from the E-Bike Lending Library.) | $2386 |  $2250 |
+| **Standard**: This base accessory package includes the handrail, rear seat pad, and a front rack, for a ready-to-ride experience designed to haul two older kids. | $2234 | $2003 |
+| **Ready to Haul**: The Ready to Haul package adds a double-width milk crate mounted to the front rack for all your carrying needs, and a Lezyne bell. | $2294 | $2050 |
+| **Ready to Transport**:  This package adds a rack-mounted Yepp Maxx child seat. (This is the configuration available for borrowing from the E-Bike Lending Library.) | $2544 |  $2250 |
 
 All prices include professional assembly and delivery.
 
