@@ -28,6 +28,13 @@ These bikes are offered with a child seat installed that fits children up to 45 
 
 ### Commuter-style Bikes
 
+* <img src="/ebikes/discover-1.jpg" width=200 alt="A bright yellow bike with step-through frame; labeled Velotric on the tube" style="float: right; margin-left: 3px; margin-bottom: 3px;" />
+  
+  **[Velotric Discover 1](https://www.velotricbike.com/products/velotric-discover-1-e-bike)**: 7-speed step-thru commuter-style bike. This upright bike with an integrated rear rack is good for your everyday needs. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url)
+  
+  <span style="font-size:.8em">This bike was donated by Velotric.</span><br style="clear:both" />
+  <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
+
 * <img src="/ebikes/blix_aveny.png" width=200 alt="Image of a step-through bike with curved frame; labeled Blix on the tube" style="float: right; margin-left: 3px; margin-bottom: 3px;" />
   
   **[Aveny Skyline](https://blixbike.com/products/aveny-electric-city-bike)**: 7-speed step-thru commuter-style bike. This upright bike with an integrated rear rack is good for your everyday needs. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=Blix+Aveny+Skyline:+7-speed+upright+commuter+bike)
