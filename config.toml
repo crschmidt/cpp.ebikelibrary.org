@@ -114,7 +114,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     enable = true
     # Custom content (HTML format is supported)
     # 自定义内容 (支持 HTML 格式)
-    custom = "Website shamelessly stolen from <a href='https://www.ebikelibrarycville.org/'>Charlottesville E-bike Lending Library</a>. (Thanks Josh!)"
+    custom = "The Camberville E-Bike Lending Library is a project of <a href='https://communitypedalpower.org/'>Community Pedal Power</a>, a 501c3 non-profit organization."
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
     hugo = false
@@ -744,6 +744,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     url = "/supporters/"
   [[menu.main]]
     weight = 5
+    identifier = "donate"
+    name = "Donate"
+    url = "/donate/"
+  [[menu.main]]
+    weight = 6
     identifier = "q-and-a"
     name = "Questions and Answers"
     url = "/categories/answers/"

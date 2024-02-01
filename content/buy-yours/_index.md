@@ -24,7 +24,7 @@ finding your own e-bike and taking care of it once it arrives.
     [subreddit](https://reddit.com/r/ebikes), and Facebook groups for
     many popular e-bike makers. Of course, take anything you read online
     with a grain of salt.
-* Figure out maintenance. Many bike shops in the Charlottesville area
+* Figure out maintenance. Many bike shops in the Cambridge/Somerville area
     will do mechanical work on e-bikes, like adjusting your brakes or
     doing a tune-up. But they may not be able to work on the electronics
     in your e-bike. Ask a bike shop if they'll work on the e-bike you're
