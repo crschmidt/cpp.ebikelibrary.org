@@ -6,12 +6,18 @@ toc: true
 ### Long-tail/Cargo
 
 These bikes are offered with a child seat installed that fits children up to 45 pounds. If you would like to borrow a bike without a child seat installed (e.g. because you have two older children), please include that comment in your borrowing form.
+* <img src="/ebikes/velotric-packer.jpg" width=200 alt="Image of Velotric Packer cargo bike with kid seat attached" style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
+  
+  **[Velotric Packer](https://www.velotricbike.com/products/velotric-packer-1-e-bike?ref=CHRISTOPHERRSCH&utm_source=goaffpro)**: Long-tail bike with installed passenger bars and a child seat; good for taking slightly older kids on rides. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url) 
+  
+  <span style="font-size:.8em">This bike was generously donated by <a href="https://www.velotricbike.com/?ref=CHRISTOPHERRSCH&utm_source=goaffpro">Velotric</a>.</span><br style="clear:both" />
 
 * <img src="/ebikes/abound-seat.jpg" width=200 alt="Image of Aventon Abound" style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
-  
+
   **[Aventon Abound](https://www.aventon.com/products/abound-ebike)**: Long-tail bike with installed passenger bars and a child seat; good for taking slightly older kids on rides. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=Aventon+Abound:+Long+tail+cargo+bike.) 
 
   <span style="font-size:.8em">This bike was generously donated by <a href="https://www.ebikesofne.com/">Electric Bikes of New England</a>.</span><br style="clear:both" />
+
 
 * <img src="/ebikes/tern-seat.jpg" width=200 alt="Image of Tern HSD" style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
   
@@ -32,7 +38,7 @@ These bikes are offered with a child seat installed that fits children up to 45 
   
   **[Velotric Discover 1](https://www.velotricbike.com/products/velotric-discover-1-e-bike)**: 7-speed step-thru commuter-style bike. This upright bike with an integrated rear rack is good for your everyday needs. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url)
   
-  <span style="font-size:.8em">This bike was donated by Velotric.</span><br style="clear:both" />
+  <span style="font-size:.8em">This bike was generously donated by <a href="https://www.velotricbike.com/?ref=CHRISTOPHERRSCH&utm_source=goaffpro">Velotric</a>.</span><br style="clear:both" />
   <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
 
 * <img src="/ebikes/blix_aveny.png" width=200 alt="Image of a step-through bike with curved frame; labeled Blix on the tube" style="float: right; margin-left: 3px; margin-bottom: 3px;" />
