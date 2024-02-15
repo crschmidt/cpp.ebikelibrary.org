@@ -20,6 +20,8 @@ shopping, or just take a bike for a spin and decide whether e-bikes are right
 for you. [Sign up](https://forms.gle/WkBo3KS4jfbQtgAr7) to borrow an e-bike or
 [contact us](mailto:camberville@ebikelibrary.org) with any questions.
 
+The library has two pickup locations: in Somerville near Porter Square, and in Roslindale near Roslindale Village.
+
 ### How it works
 
 * Contact us to let us know which e-bike(s) you'd like to try.
@@ -31,7 +33,6 @@ for you. [Sign up](https://forms.gle/WkBo3KS4jfbQtgAr7) to borrow an e-bike or
     library.
 * You can borrow an e-bike more than once, or borrow multiple e-bikes.
 
-The library has two pickup locations: in Somerville near Porter Square, and in Roslindale near Roslindale Village. (Indicate your preference on the borrow form.)
 
 <img src="/ebikes/bikeshed-scaled.jpg" width=600 alt="A group of four ebikes standing up in the inside of a wooded shed." />
 
