@@ -32,6 +32,12 @@ These bikes are offered with a child seat installed that fits children up to 45 
 
   <span style="font-size:.8em">This bike was generously donated by an anonymous member of the community.</span><br style="clear:both" />
 
+* <img src="/ebikes/towmonster.jpg" width="200px" alt="A bike with another bike attached" style="float: right; margin-left: 3px; margin-bottom: 3px;" />
+
+  **[Tow Monster](https://schleptastic.com/)**, by Schleptastic: An accessory for a bike that allows for towing of a smaller bike. Can be combined with a child seat. Attaches to the RadCity Step-Thru 3. Can be used to carry bikes with wheels up to 24", as well as tall cargo. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=RadCity+Step-Thru+3:+Upright+commuting+bike)
+  
+  <span style="font-size:.8em">This accessory was generously donated by Schleptastic.</span><br style="clear:both" />
+
 ### Commuter-style Bikes
 
 * <img src="/ebikes/discover-1.jpg" width=200 alt="A bright yellow bike with step-through frame; labeled Velotric on the tube" style="float: right; margin-left: 3px; margin-bottom: 3px;" />
