@@ -64,9 +64,16 @@ These bikes are offered with a child seat installed that fits children up to 45 
 
 * <img src="/ebikes/MissionMS_white_side_700x.png" width=200 alt="Image of RadMission" style="float: right; margin-left: 3px; margin-bottom: 3px;" />
 
-  **RadMission**: Single-speed e-bike with a mid-step frame. This is a straightforward hybrid-style bike with e-assist. (This bike has been EOLed; there is no way to buy this specific bike new.) [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=RadMission:+Lightweight+hybrid-style+bike)
+  **RadMission**: Single-speed e-bike with a mid-step frame. This is a straightforward hybrid-style bike with e-assist. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=RadMission:+Lightweight+hybrid-style+bike)
 
   <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
+
+* <img src="/ebikes/soltera.png" width="200px" alt="A bright yellow bike with a high bar" style="float: right; margin-left: 3px; margin-bottom: 3px" />
+
+  **Soltera**: A lightweight, 7-speed e-bike with a high-step frame. This bike has a torque assist drive and a less powerful motor than most of our other e-bikes. This may be a good bike for cyclists who are interested in adding a bit more range to their ride while still feeling like they're riding a bike. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=Aventon+Soltera.2:+High+step+torque+assist+hybrid-style+bike)
+  
+    <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
+
 
 ### Fat-tire bikes
 
