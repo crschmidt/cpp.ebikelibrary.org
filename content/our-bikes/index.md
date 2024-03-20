@@ -38,6 +38,15 @@ These bikes are offered with a child seat installed that fits children up to 45 
   
   <span style="font-size:.8em">This accessory was generously donated by Schleptastic.</span><br style="clear:both" />
 
+### Trike
+
+* <img src="/ebikes/bunch.jpg" width=200 alt="A three-wheeled bicycle with a wooden cargo box on the front." style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
+  
+  **[Bunch Original 4](https://bunchbike.com/products/the-original-4-upgraded-electric-cargo-bike-for-families)**: Three-wheeled tricycle with front seating area that can seat up to 4. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform) 
+
+  <span style="font-size:.8em">This bike is on loan from <a href="https://bunchbike.com/">Bunch Bikes</a>.</span><br style="clear:both" />
+
+
 ### Commuter-style Bikes
 
 * <img src="/ebikes/discover-1.jpg" width=200 alt="A bright yellow bike with step-through frame; labeled Velotric on the tube" style="float: right; margin-left: 3px; margin-bottom: 3px;" />
