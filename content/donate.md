@@ -1,5 +1,5 @@
 ---
-title: Support the Camberville E-Bike Lending Library!
+title: Support the Community Pedal Power E-Bike Lending Library!
 ---
 
 Help support the lending library!

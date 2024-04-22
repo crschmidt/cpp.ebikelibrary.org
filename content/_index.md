@@ -1,5 +1,5 @@
 ---
-title: Camberville E-Bike Lending Library
+title: Community Pedal Power E-Bike Lending Library
 images: ['/ebikes/bikeshed-scaled.jpg']
 ---
 
@@ -31,7 +31,8 @@ The library has two pickup locations: in Somerville near Porter Square, and in R
     longer if you want to try more than one e-bike.
 * Enjoy e-biking for up to a week, then bring the e-bike back to the
     library.
-* You can borrow an e-bike more than once, or borrow multiple e-bikes.
+* You can borrow an e-bike more than once, or borrow multiple e-bikes;
+  however, some bikes may have a longer waitlist.
 
 
 <img src="/ebikes/bikeshed-scaled.jpg" width=600 alt="A group of four ebikes standing up in the inside of a wooded shed." />

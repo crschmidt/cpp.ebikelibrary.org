@@ -3,13 +3,13 @@ title: "Aventon Abound - Deal from E-Bikes of New England"
 images: ["/ebikes/abound.jpg"]
 ---
 
-The Camberville E-Bike Lending Library has partnered with E-Bikes of New
+The Community Pedal Power E-Bike Lending Library has partnered with E-Bikes of New
 England to offer a discount on a package deal with accessories for the Aventon
 Abound.
 
 Bikes are assembled by professional bike mechanics, and delivered to your door
 in the Camberville area, within the week for in-stock bikes. **For each bike
-purchased, E-Bikes of New England will donate $50 to the Camberville E-Bike
+purchased, E-Bikes of New England will donate $50 to the Community Pedal Power E-Bike
 Lending Library.**
 
 Currently, some accessories are sold out from Aventon, so some parts of this

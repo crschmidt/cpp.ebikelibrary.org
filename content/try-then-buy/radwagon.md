@@ -4,7 +4,7 @@ images: ["/ebikes/rw/1.jpg"]
 ---
 
 **Update (2023-09-27): This bike has been sold and is no longer available.**
-
+<!--
 A discounted RadWagon 4 is available for sale, including several accessories
 helpful to carrying kids on the rear of the bike. This bike was purchased
 specifically to take advantage of a recent sale, and has less than 50 miles
@@ -33,3 +33,4 @@ If interested, please contact <a href="mailto:camberville@ebikelibrary.org">camb
 <img src="/ebikes/rw/2.jpg" />
 <img src="/ebikes/rw/4.jpg" />
 <img src="/ebikes/rw/3.jpg" />
+-->

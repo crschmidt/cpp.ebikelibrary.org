@@ -13,7 +13,7 @@ Supporting Organizations
 
 <div style="margin: 20px; float:left"><a href="https://www.ebikesofne.com/"><img src="https://www.ebikesofne.com/v/vspfiles/templates/269/images/template/header_bg.jpg" /></a></div>
 <h2>E-Bikes of New England</h2>
-Several bikes available from the Camberville E-Bike Lending Library, including the Aventon Abound and the Tern HSD, were generously
+Several bikes available from the Community Pedal Power E-Bike Lending Library, including the Aventon Abound and the Tern HSD, were generously
 provided by <a href="https://www.ebikesofne.com/">Electric Bikes of New England</a>! Electric Bikes of New England is the country's largest Aventon retailer, and offers delivery to the Camberville area. E-Bikes of New England has been an excellent partner to the library, and each purchase you make through them helps support the library as well!
 
 <h2>Velotric</h2>

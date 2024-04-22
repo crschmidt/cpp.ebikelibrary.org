@@ -3,7 +3,7 @@ title: "Tern HSD + Quick Haul - Deal from E-Bikes of New England"
 #images: ["/ebikes/abound.jpg"]
 ---
 
-The Camberville E-Bike Lending Library has partnered with E-Bikes of New
+The Community Pedal Power E-Bike Lending Library has partnered with E-Bikes of New
 England to offer a discount on a package deal with accessories for single rider bikes like the Tern HSD and Tern Quick Haul.
 
 Bikes are assembled by professional bike mechanics, and delivered to your door
@@ -21,8 +21,8 @@ Prices are listed below for HSD P10, Quick Haul P9 Sport, and QuickHaul D8, but 
 | **Big Kid Setup**: Captain's Chair, Sidekick Footrests, Wheel Guard | $4,532	| $3,232 | $2,882 |
 
 *Does this package not match what you want? Reach out to E-Bikes of New England to discuss what you're looking for and get a custom price,
-with the same discount on accessories across the board for Camberville E-Bike Lending Library community members!* 
+with the same discount on accessories across the board for Community Pedal Power E-Bike Lending Library community members!* 
 
 All prices include professional assembly and delivery to the Camberville area; delivery south of the Charles River is an additional $50.
 
-**For each bike purchased, E-Bikes of New England will donate $50 to the Camberville E-Bike Lending Library.**
+**For each bike purchased, E-Bikes of New England will donate $50 to the Community Pedal Power E-Bike Lending Library.**
