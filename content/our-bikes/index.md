@@ -18,6 +18,13 @@ These bikes are offered with a child seat installed that fits children up to 45 
 
   <span style="font-size:.8em">This bike was generously donated by <a href="https://www.ebikesofne.com/">Electric Bikes of New England</a>.</span><br style="clear:both" />
 
+ * <img src="/ebikes/tern-gsd.jpg" width=200 alt="Image of Tern GSD" style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
+
+  **[Tern GSD](https://www.ternbicycles.com/us/bikes/472/gsd)**: Long-tail bike with installed passenger bars and a child seat; good bike for carrying two kids. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url) 
+
+  <span style="font-size:.8em">This bike was generously donated by <a href="https://www.ebikesofne.com/">Electric Bikes of New England</a>.</span><br style="clear:both" />
+
+
 
 * <img src="/ebikes/tern-seat.jpg" width=200 alt="Image of Tern HSD" style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
   
