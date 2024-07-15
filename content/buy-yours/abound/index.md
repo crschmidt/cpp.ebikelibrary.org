@@ -15,15 +15,13 @@ Lending Library.**
 Currently, some accessories are sold out from Aventon, so some parts of this
 deal may be delayed.
 
-| Package | Current Sale Price | E-Bikes of New England Price |
-| ------- | ------------------ | ---------------------------- |
-| **Standard**: This base accessory package includes the handrail, rear seat pad, and a front rack, for a ready-to-ride experience designed to haul two older kids. | $2234 | $2003 |
-| **Ready to Haul**: The Ready to Haul package adds a double-width milk crate mounted to the front rack for all your carrying needs, and a Lezyne bell. | $2294 | $2050 |
-| **Ready to Transport**:  This package adds a rack-mounted Yepp Maxx child seat. (This is the configuration available for borrowing from the E-Bike Lending Library.) | $2544 |  $2250 |
+| Package | E-Bikes of New England Price |
+| ------- | ---------------------------- |
+| **Standard**: This base accessory package includes the handrail, rear seat pad, and a front rack, for a ready-to-ride experience designed to haul two older kids.  | $2203 |
+| **Ready to Haul**: The Ready to Haul package adds a double-width milk crate mounted to the front rack for all your carrying needs, and a Lezyne bell. | $2250 |
+| **Ready to Transport**:  This package adds a rack-mounted Yepp Maxx child seat. (This is the configuration available for borrowing from the E-Bike Lending Library.) | $2450 |
 
 All prices include professional assembly and delivery.
 
 E-Bikes of New England has also donated a Ready to Transport model Aventon Abound to the library for families to try before they buy; if you'd like to try out the bike, you can request to [borrow the bike](https://forms.gle/WkBo3KS4jfbQtgAr7) to try! Thanks to E-Bikes of New England for their support of the library and the Camberville Cycling Community!
 
-
-<img src="/ebikesne.jpg" />
