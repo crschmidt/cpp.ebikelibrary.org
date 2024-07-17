@@ -18,7 +18,7 @@ These bikes are offered with a child seat installed that fits children up to 45 
 
   <span style="font-size:.8em">This bike was generously donated by <a href="https://www.ebikesofne.com/">Electric Bikes of New England</a>.</span><br style="clear:both" />
 
- * <img src="/ebikes/tern-gsd.jpg" width=200 alt="Image of Tern GSD" style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
+* <img src="/ebikes/tern-gsd.jpg" width=200 alt="Image of Tern GSD" style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
 
   **[Tern GSD](https://www.ternbicycles.com/us/bikes/472/gsd)**: Long-tail bike with installed passenger bars and a child seat; good bike for carrying two kids. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url) 
 
@@ -33,11 +33,11 @@ These bikes are offered with a child seat installed that fits children up to 45 
   <span style="font-size:.8em">This bike was generously donated by <a href="https://www.ebikesofne.com/">Electric Bikes of New England</a>.</span><br style="clear:both" />
 
 
-* <img src="/ebikes/radioflyer.jpg" width="200px" alt="A blue long-tail cargo bike with the word Flyer on the side." style="float: right; margin-left: 3px; margin-bottom: 3px;" />
+* <img src="/ebikes/rf-via.jpg" width="200px" alt="A black long-tail cargo bike with the word Flyer on the side." style="float: right; margin-left: 3px; margin-bottom: 3px;" />
 
-  **[RadioFlyer L885](https://flyer.radioflyer.com/flyer-l885.html)**: Long-tail bike with a long passenger section. One child seat installed. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform)
+  **[RadioFlyer Via](https://flyer.radioflyer.com/products/flyer-via)**: Long-tail bike with a long passenger section. One child seat installed. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform)
 
-  <span style="font-size:.8em">This bike was generously donated by an anonymous member of the community.</span><br style="clear:both" />
+  <span style="font-size:.8em">This bike was generously donated by Radio Flyer.</span><br style="clear:both" />
 
 * <img src="/ebikes/towmonster.jpg" width="200px" alt="A bike with another bike attached" style="float: right; margin-left: 3px; margin-bottom: 3px;" />
 
@@ -81,6 +81,12 @@ These bikes are offered with a child seat installed that fits children up to 45 
 
   **RadCity Step-Thru 3**: Upright step-thru commuter bike. (This bike has been EOL'd; the latest model is the [RadCity 5 Plus](https://www.radpowerbikes.com/products/radcity-plus-electric-commuter-bike).) [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=RadCity+Step-Thru+3:+Upright+commuting+bike)
   <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
+
+* <img src="/ebikes/aventon-level.jpg" width="200px" alt="A commuter style bike with straight handlebars." style="float: right; margin-left: 3px; margin-bottom: 3px;" />
+
+  **Aventon Level**: The original (cadence sensor) version of the Aventon Level. (This bike is no longer sold; the latest model is the [Level.2](https://www.aventon.com/products/aventon-level-commuter-ebike).) [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?)
+  <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
+
 
 
 ### Normal Hybrid-style Bikes
