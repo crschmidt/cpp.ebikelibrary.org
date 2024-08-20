@@ -18,7 +18,7 @@ online, it can be a challenge to try an e-bike before buying one.
 By borrowing a bike, you can experience your daily commute, go grocery
 shopping, or just take a bike for a spin and decide whether e-bikes are right
 for you. [Sign up](https://forms.gle/WkBo3KS4jfbQtgAr7) to borrow an e-bike or
-[contact us](mailto:camberville@ebikelibrary.org) with any questions.
+[contact us](mailto:librarians@ebikelibrary.org) with any questions.
 
 The library has two pickup locations: in Somerville near Porter Square, and in Roslindale near Roslindale Village.
 
