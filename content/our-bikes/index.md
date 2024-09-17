@@ -6,11 +6,6 @@ toc: true
 ### Long-tail/Cargo
 
 These bikes are offered with a child seat installed that fits children up to 45 pounds. If you would like to borrow a bike without a child seat installed (e.g. because you have two older children), please include that comment in your borrowing form.
-* <img src="/ebikes/velotric-packer.jpg" width=200 alt="Image of Velotric Packer cargo bike with kid seat attached" style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
-  
-  **[Velotric Packer](https://www.velotricbike.com/products/velotric-packer-1-e-bike?ref=CHRISTOPHERRSCH&utm_source=goaffpro)**: Long-tail bike with installed passenger bars and a child seat; good for taking slightly older kids on rides. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url) 
-  
-  <span style="font-size:.8em">This bike was generously donated by <a href="https://www.velotricbike.com/?ref=CHRISTOPHERRSCH&utm_source=goaffpro">Velotric</a>.</span><br style="clear:both" />
 
 * <img src="/ebikes/abound-seat.jpg" width=200 alt="Image of Aventon Abound" style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
 
