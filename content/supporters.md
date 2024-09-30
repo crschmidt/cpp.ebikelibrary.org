@@ -8,6 +8,10 @@ for their support, and for the support from various users of the lending
 library! If you would like to help fund the Lending Library, please feel
 free to <a href="/donate/">give a tax-deductible donation</a>.
 
+It is only through the financial support of our community that we are able to
+continue to operate the library as the high-quality service that it is; your
+financial support is appreciated!
+
 Supporting Organizations
 ------------------------
 
