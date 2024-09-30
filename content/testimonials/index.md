@@ -58,6 +58,7 @@ title: Testimonials
             color: #555;
         }
 </style>
+Want to share your own thoughts on using the E-Bike Library? <a href="https://forms.gle/XxiC74Si3Ya5haWV9">Submit your own</a>!
 <div class="testimonial-container">
 <div class="testimonial">
         <div class="testimonial-author">Aaron C</div>
