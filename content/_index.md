@@ -5,22 +5,26 @@ images: ['/ebikes/bikeshed-scaled.jpg']
 
 # Curious about e-bikes? Try one from the E-bike Lending Library!
 
-The E-bike Lending Library is a free, not-for-profit service working to expand
-access to e-bikes in the area. We have a small collection of e-bikes that we
-lend out to community members for up to a week, for free.
+The E-bike Lending Library is a volunteer-run, non-profit service working to
+expand access to e-bikes in the area. We have a small collection of e-bikes
+that we lend out to community members for up to a week, for free. We're
+funded by contributions from our members; and staffed as a labor of love in
+order to help people move more of their transportation needs to bikes.
 
 <div style="text-align: center; font-size: 30px; margin: 20px"><a href="/our-bikes/">Check out our bikes</a>!</div>
 
-E-bikes are a great way to get around the Boston area. But there are
-many brands and styles to choose from, and because many e-bikes are sold
-online, it can be a challenge to try an e-bike before buying one.
+Our volunteer librarians work to connect you with a bike that works for you,
+whether you're a solo rider or a family; whether you're riding 1 mile every
+day or 20.
 
 By borrowing a bike, you can experience your daily commute, go grocery
 shopping, or just take a bike for a spin and decide whether e-bikes are right
 for you. [Sign up](https://forms.gle/WkBo3KS4jfbQtgAr7) to borrow an e-bike or
 [contact us](mailto:librarians@communitypedalpower.org) with any questions.
 
-The library has two pickup locations: in Somerville near Porter Square, and in Roslindale near Roslindale Village.
+The library has three pickup locations: in Somerville near Porter Square, and
+in Roslindale near Roslindale Village, and in the South End near Blackstone
+Square.
 
 ### How it works
 
