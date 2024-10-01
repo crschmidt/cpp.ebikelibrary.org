@@ -15,12 +15,6 @@ financial support is appreciated!
 Supporting Organizations
 ------------------------
 
-## Grants
-
-### Grassroots Fund
-
-The grassroots fund provided an $850 one-time grant for us to expand our operations into Roslindale, helping us add a second Aventon Abound to our fleet in 2024.
-
 ## Bike Shops
 
 <div style="margin: 20px; float:right"><a href="https://www.ebikesofne.com/"><img src="https://www.ebikesofne.com/v/vspfiles/templates/269/images/template/header_bg.jpg" /></a></div>
@@ -87,6 +81,13 @@ e-bike to the library.
 Bikes donated:
 
 * Aventon Abound
+
+## Grants
+
+### Grassroots Fund
+
+The grassroots fund provided an $850 one-time grant for us to expand our operations into Roslindale, helping us add a second Aventon Abound to our fleet in 2024.
+
 
 # Support the Library: Donate a Bike
 
