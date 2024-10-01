@@ -33,3 +33,5 @@ To help support library operations, we request a small donation be provided
 as part of the process, so that we can ensure we can provide the best
 available answers. We want to help everyone get on the bike that is right 
 for them!
+
+<script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/e-bike-purchasing-consultation?language=en" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important" allow="payment"></iframe>
