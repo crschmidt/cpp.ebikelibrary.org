@@ -25,4 +25,4 @@ a communication from a librarian with your scheduled pickup time.
   loan, other bikes to consider, or other similar matters, this is dependent
   on scheduling; if a librarian asks you to follow-up via email, you can do
   so by [emailing the librarians](mailto:librarians@communitypedalpower.org) to
-  continue the conversation0.
+  continue the conversation.
