@@ -26,6 +26,12 @@ The library has three pickup locations: in Somerville near Porter Square, and
 in Roslindale near Roslindale Village, and in the South End near Blackstone
 Square.
 
+### Bought an E-Bike?
+
+Did you buy an e-bike and are looking to buy a Litelok X1 to help protect 
+it? [Head over here](https://www.paypal.com/donate/?hosted_button_id=2XFPFWWXMWQWN).
+
+
 ### How it works
 
 * Contact us to let us know which e-bike(s) you'd like to try.
