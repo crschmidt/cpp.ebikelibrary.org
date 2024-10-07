@@ -11,7 +11,7 @@ We are happy to help advise you on which bike is right for your situation;
 helping you find the best fit, and often find the best deal in purchasing an
 e-bike that fits your needs. Or if you've already got a bike in mind for 
 purcahse -- for example, because you see a good deal on Facebook Marketplace
-or Cragistlist -- we can advise on that as well!
+or Craigslist -- we can advise on that as well!
 
 If you're considering buying, but just not sure which bike is right for you;
 or you think you know what you're going to get and just want someone to help
