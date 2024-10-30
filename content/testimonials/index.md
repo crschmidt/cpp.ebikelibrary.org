@@ -61,6 +61,16 @@ title: Testimonials
 Want to share your own thoughts on using the E-Bike Library? <a href="https://forms.gle/XxiC74Si3Ya5haWV9">Submit your own</a>!
 <div class="testimonial-container">
 <div class="testimonial">
+        <div class="testimonial-author">Sae B. </div>
+The E-bike Lending Library has completely transformed my lifestyle!
+
+Ever since riding my mom's electric Yamaha bike in Japan 30 years ago, I've dreamed of seeing e-bikes become common here in the US. When they finally did, I felt overwhelmed by all the brands and features. I thought I needed an E-cargo bike for my everyday errands (so I was looking for a cargo e-bike), but after chatting with Chris and exploring the library’s options, I found out a commuter bike with storage was perfect for me! 
+
+Thanks to the test ride, I confidently bought the Radster Road Commuter E-bike, and it's been a total game-changer. From grocery runs, commuting, volunteering, museum hopping, and weekend rides with my husband (and a toy poodle on my back!), I’m loving every moment of my E-bike lifestyle! Thank you so much, Chris! 
+<div class="testimonial-date">October 07, 2024</div>
+</div>
+
+<div class="testimonial">
         <div class="testimonial-author">Aaron C</div>
 What an amazing resource -- my family was able to enjoy time in the summer cycling together, when otherwise we would have had to drive and been unable to explore all of the awesome bike-connected areas near us that we love to visit by bike. Chris was gracious, welcoming, enthusiastic and communicative with the lending experience. I've been recommending the e-bike library to anyone I meet who has an interest in e-bikes but isn't ready to purchase one!
 <div class="testimonial-date">September 29, 2024</div>
