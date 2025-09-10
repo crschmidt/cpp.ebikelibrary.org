@@ -62,7 +62,7 @@ These bikes are offered with a child seat installed that fits children up to 45 
   <span style="font-size:.8em">This bike was generously donated by <a href="https://www.velotricbike.com/?ref=CHRISTOPHERRSCH&utm_source=goaffpro">Velotric</a>.</span><br style="clear:both" />
   <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
 
-* <img src="/ebikes/breeze.jpg" width=200 alt="A step-thrug bike in purple." style="float: right; margin-left: 3px; margin-bottom: 3px;" />
+* <img src="/ebikes/breeze.png" width=200 alt="A step-thrug bike in purple." style="float: right; margin-left: 3px; margin-bottom: 3px;" />
 
   **[Velotric Breeze](https://www.velotricbike.com/products/velotric-breeze-1)**: 8-speed step-thru commuter-style bike. This upright bike with an integrated rear rack is good for your everyday needs, and lighter than the Discover 2 [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url)
 
