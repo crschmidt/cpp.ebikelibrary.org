@@ -33,6 +33,13 @@ These bikes are offered with a child seat installed that fits children up to 45 
   <span style="font-size:.8em">This bike was generously donated by Radio Flyer.</span><br style="clear:both" />
   <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
 
+* <img src="/ebikes/madsen.jpg" width="200px" alt="A step-thru bike with a front crate, with a large plastic bucket in the rear." style="float:right; margin-left: 3px; margin-bottom: 3px;" />
+
+  **[Madsen DK2 Luxury](https://www.madsencycles.com/products/electric-dk2-luxury)**: Step-thru bike with large rear bucket, with seating for up to 4 children. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform)
+
+  <span style="font-size:.8em">This bike was generously donated by Madsen.</span><br style="clear:both" />
+  <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
+
 ### Front Loader
 
 * <img src="/ebikes/bunch.jpg" width=200 alt="A three-wheeled bicycle with a wooden cargo box on the front." style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
@@ -55,18 +62,11 @@ These bikes are offered with a child seat installed that fits children up to 45 
   <span style="font-size:.8em">This bike was generously donated by <a href="https://www.velotricbike.com/?ref=CHRISTOPHERRSCH&utm_source=goaffpro">Velotric</a>.</span><br style="clear:both" />
   <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
 
-* <img src="/ebikes/discover-1.jpg" width=200 alt="A bright yellow bike with step-through frame; labeled Velotric on the tube" style="float: right; margin-left: 3px; margin-bottom: 3px;" />
+* <img src="/ebikes/breeze.jpg" width=200 alt="A step-thrug bike in purple." style="float: right; margin-left: 3px; margin-bottom: 3px;" />
 
-  **[Velotric Discover 1](https://www.velotricbike.com/products/velotric-discover-1-e-bike)**: 7-speed step-thru commuter-style bike. This upright bike with an integrated rear rack is good for your everyday needs. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url)
+  **[Velotric Breeze](https://www.velotricbike.com/products/velotric-breeze-1)**: 8-speed step-thru commuter-style bike. This upright bike with an integrated rear rack is good for your everyday needs, and lighter than the Discover 2 [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url)
 
   <span style="font-size:.8em">This bike was generously donated by <a href="https://www.velotricbike.com/?ref=CHRISTOPHERRSCH&utm_source=goaffpro">Velotric</a>.</span><br style="clear:both" />
-  <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
-
-* <img src="/ebikes/blix_aveny.png" width=200 alt="Image of a step-through bike with curved frame; labeled Blix on the tube" style="float: right; margin-left: 3px; margin-bottom: 3px;" />
-
-  **[Aveny Skyline](https://blixbike.com/products/aveny-electric-city-bike)**: 7-speed step-thru commuter-style bike. This upright bike with an integrated rear rack is good for your everyday needs. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=Blix+Aveny+Skyline:+7-speed+upright+commuter+bike)
-
-  <span style="font-size:.8em">This bike is on loan from a generous member of the community.</span><br style="clear:both" />
   <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
 
 ### Normal Hybrid-style Bikes
@@ -89,18 +89,6 @@ These bikes are offered with a child seat installed that fits children up to 45 
     <span style="font-size:.8em">This bike was generously donated by <a href="https://www.velotricbike.com/?ref=CHRISTOPHERRSCH&utm_source=goaffpro">Velotric</a>.</span><br style="clear:both" />
     <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
 
-### Fat-tire bikes
-
-* <img src="/ebikes/US-RadRunner2-Green-Right-View_1200x.png" width=200 alt="Image of RadRunner Plus" style="float: right; margin-left: 3px; margin-bottom: 3px;" />
-
-  **[RadRunner 2](https://www.radpowerbikes.com/collections/electric-bikes/products/radrunner-electric-utility-bike)**: Single-speed utility e-bike with wide tires and a low stepover height. Great for carrying cargo or a passenger. Bad for off-road usage. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=RadRunner+2:+Utility+E-bike)
-  <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
-
-* <img src="/ebikes/Rover6STPlus_white_side.png" width="200" alt="A step-thrug bike with fenders and an integrated battery." style="float: right; margin-left: 3px; margin-bottom: 3px;" />
-
-  **[RadRover 6 Plus](https://www.radpowerbikes.com/collections/electric-bikes/products/radrover-plus-electric-fat-tire-bike?variant=39336003829856)**: This fat-tire bike is intended to provide an off-road capable bike. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=RadRover+6%2B:+Off-road+capable+fat-tire+bike)
-  <br style="clear: both; margin-bottom: 5px;" />
-
 ### Retired Bikes
 
 We have a number of bikes in the library that are no longer sold by
@@ -113,3 +101,6 @@ experience of riding them, we may still have them available for loans.
 * **RadMission**: Single-speed e-bike with a mid-step frame. This is a straightforward hybrid-style bike with e-assist. This bike is no longer sold; the best alternative is the Aventon Soltera or Velotric T1 ST.
 * **Radio Flyer L885**: This first generation Radio Flyer cargo bike has been replaced in the lineup by the Radio Flyer Via, which is a significant improvement across the board. In particular, this bike has cable brakes rather than hydraulic, which are a bad fit for novice cargo bikers. (This bike was donated by Radio Flyer.)
 * **Velotric Packer**: This cargo bike uses a cadence sensor that produces an aggressive and jumpy assist, and has a kickstand which does not meet the needs of a cargo bike well. We do not recommend this bike. (This bike was donated by <a href="https://www.velotricbike.com/?ref=CHRISTOPHERRSCH&utm_source=goaffpro">Velotric</a>.)
+* **RadRunner 2**
+* **RadRover 6**
+* **Velotric Discover 1**
