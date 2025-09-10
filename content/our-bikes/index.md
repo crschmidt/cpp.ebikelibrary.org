@@ -54,9 +54,16 @@ These bikes are offered with a child seat installed that fits children up to 45 
 
   <span style="font-size:.8em">This bike is on loan from <a href="https://bunchbike.com/">Bunch Bikes</a>.</span><br style="clear:both" />
 
-* **Urban Arrow Family (Cargo Line)**: This front bucket bike is the workhorse of the bakfiets fleets in the US. With seatbelts for two kids and room to carry everything from your groceries to furniture, the Urban Arrow is a great minivan replacement.
+* **Urban Arrow Family (Cargo Line)**: This front bucket bike is the workhorse of the bakfiets fleets in the US. With seatbelts for two kids and room to carry everything from your groceries to furniture, the Urban Arrow is a great minivan replacement. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform)
   
   <span style="font-size:.8em">This bike was donated by Urban Arrow/Gazelle North America.</span><br style="clear:both" />
+
+* <img src="/ebikes/bullitt.jpg" width=200 alt="A bike with a large locking metal box on the front." style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
+
+  **E-Bullitt**: This front bucket bike/platform bike is well-suited for cargo loads (but not ideal for carrying people). [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform)
+
+  <span style="font-size:.8em">This bike was sponsored in part by Larry vs. Harry.</span><br style="clear:both" />
+
 
 
 ### Commuter-style Bikes
