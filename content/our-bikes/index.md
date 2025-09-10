@@ -7,23 +7,29 @@ toc: true
 
 These bikes are offered with a child seat installed that fits children up to 45 pounds. If you would like to borrow a bike without a child seat installed (e.g. because you have two older children), please include that comment in your borrowing form.
 
-* <img src="/ebikes/abound-seat.jpg" width=200 alt="Image of Aventon Abound" style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
+* <img src="/ebikes/abound-lr.png" width=200 alt="Image of Aventon Abound" style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
 
-  **[Aventon Abound](https://www.aventon.com/products/abound-ebike)**: Long-tail bike with installed passenger bars and a child seat; good for taking slightly older kids on rides. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url&entry.504891430=Aventon+Abound:+Long+tail+cargo+bike.)
+  **[Aventon Abound LR](https://www.aventon.com/products/abound-lr-ebike)**: Long-tail bike with installed passenger bars and a child seat; good for taking slightly older kids on rides. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform.)
 
-  <span style="font-size:.8em">This bike was generously donated by <a href="https://www.ebikesofne.com/">Electric Bikes of New England</a>.</span><br style="clear:both" />
+  <span style="font-size:.8em">This bike was generously donated by Aventon.</span><br style="clear:both" />
 
 * <img src="/ebikes/tern-gsd.jpg" width=200 alt="Image of Tern GSD" style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
 
   **[Tern GSD](https://www.ternbicycles.com/us/bikes/472/gsd)**: Long-tail bike with installed passenger bars and a child seat; good bike for carrying two kids. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url)
 
-  <span style="font-size:.8em">This bike was generously donated by <a href="https://www.ebikesofne.com/">Electric Bikes of New England</a>.</span><br style="clear:both" />
+  <span style="font-size:.8em">These bikes were generously donated by <a href="https://www.ebikesofne.com/">Electric Bikes of New England</a> and Tern.</span><br style="clear:both" />
 
 * <img src="/ebikes/tern-seat.jpg" width=200 alt="Image of Tern HSD" style="float: right; margin-left: 3px; margin-bottom: 3px;"/>
 
   **[Tern HSD](https://www.ternbicycles.com/us/bikes/471/hsd-p9)**: Short-tail hauler bike suitable for one child. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform)
 
   <span style="font-size:.8em">This bike was generously donated by <a href="https://www.ebikesofne.com/">Electric Bikes of New England</a>.</span><br style="clear:both" />
+
+* <img src="/ebikes/abound-sr.png" width="200px"  style="float: right; margin-left: 3px; margin-bottom: 3px;">
+
+  **[Abound SR](https://www.aventon.com/products/abound-sr-ebike)**: Short-tail hauler suitable for one child. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform)
+  
+  <span style="font-size:.8em">This bike was generously donated by Aventon.</span><br style="clear:both" />
 
 
 * <img src="/ebikes/rf-via.jpg" width="200px" alt="A black long-tail cargo bike with the word Flyer on the side." style="float: right; margin-left: 3px; margin-bottom: 3px;" />
@@ -69,6 +75,13 @@ These bikes are offered with a child seat installed that fits children up to 45 
   <span style="font-size:.8em">This bike was generously donated by <a href="https://www.velotricbike.com/?ref=CHRISTOPHERRSCH&utm_source=goaffpro">Velotric</a>.</span><br style="clear:both" />
   <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
 
+* <img src="/ebikes/pace.png" width="200px" style="float:right; margin-left: 3px; margin-bottom: 3px;">
+
+  **[Aventon Pace 500.3](https://www.aventon.com/products/pace500-3-ebike)**: Step-over commuter bike. [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSe0Qj86MtCJm0T9w3RhqHQfDc6EEZ5kHJZDi0nMpL_0Wvt3-g/viewform?usp=pp_url)
+
+  <span style="font-size:.8em">This bike was generously donated by Aventon.</span><br style="clear:both" />
+  <div style="clear: both; margin-bottom: 5px;">&nbsp;</div>
+
 ### Normal Hybrid-style Bikes
 
 * <img src="/ebikes/soltera.png" width="200px" alt="A bright yellow bike with a high bar" style="float: right; margin-left: 3px; margin-bottom: 3px" />
@@ -104,3 +117,4 @@ experience of riding them, we may still have them available for loans.
 * **RadRunner 2**
 * **RadRover 6**
 * **Velotric Discover 1**
+* **Aventon Abound**
